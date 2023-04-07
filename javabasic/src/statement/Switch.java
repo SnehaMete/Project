@@ -6,7 +6,7 @@ public class Switch {
 	 switch (value) {
 	 
 	 case 1:
-		 System.out.println("today is monday");
+		 System.out.println("today is monday");// Days
 		 break;
 	 case 2:
 		 System.out.println("today is tuesday");
